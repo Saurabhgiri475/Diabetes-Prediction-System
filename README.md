@@ -80,7 +80,7 @@ pip install -r requirements.txt
 ## ▶️ Run the Application
 
 ```bash
-streamlit run app.py
+[streamlit run app.py](https://diabetes-prediction-system-saurabh12.streamlit.app/)
 ```
 
 The application will open automatically in your browser.
