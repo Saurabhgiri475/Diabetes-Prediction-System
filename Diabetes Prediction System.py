@@ -22,7 +22,7 @@ st.divider()
 
 age = st.number_input("Age", 18, 80, 30)
 
-gender = st.selectbox("Gender", ["Male", "Female")
+gender = st.selectbox("Gender", ["Male", "Female"])
 
 bmi = st.number_input("BMI", 10.0, 50.0, 25.0)
 
